@@ -5,7 +5,7 @@ metadata:
   labels:
     app.kubernetes.io/name: pacman
 spec:
-  host: pacman.apps.ocp-dr-acm-hub.sandbox2048.opentlc.com
+  host: pacman.apps.ocp.sandbox2253.opentlc.com
   to:
     kind: Service
     name: pacman
